@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oop\oop\Camera\bin\Debug\netcoreapp3.1\Camera.exe
+C:\Users\Admin\source\repos\oop\oop\Camera\bin\Debug\netcoreapp3.1\Camera.deps.json
+C:\Users\Admin\source\repos\oop\oop\Camera\bin\Debug\netcoreapp3.1\Camera.runtimeconfig.json
+C:\Users\Admin\source\repos\oop\oop\Camera\bin\Debug\netcoreapp3.1\Camera.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\oop\oop\Camera\bin\Debug\netcoreapp3.1\Camera.dll
+C:\Users\Admin\source\repos\oop\oop\Camera\bin\Debug\netcoreapp3.1\Camera.pdb
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.dll
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.pdb
+C:\Users\Admin\source\repos\oop\oop\Camera\obj\Debug\netcoreapp3.1\Camera.genruntimeconfig.cache
